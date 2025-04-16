@@ -135,9 +135,8 @@ A real-time chat application that enables instant messaging between users using 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bobbydillen&theme=tokyonight" alt="Bobby Dillen's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbydillen&theme=tokyonight" alt="Bobby Dillen's GitHub Streak" />
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbydillen&layout=compact&theme=tokyonight" alt="Bobby Dillen's Top Languages" />
@@ -169,4 +168,3 @@ A real-time chat application that enables instant messaging between users using 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&height=100&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing!" alt="Typing SVG" />
 </div>
-```
